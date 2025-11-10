@@ -3,7 +3,7 @@
 <p></p>
 
 [![Linkedin: khanh](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khanh-tran-46ba86329/)](https://www.linkedin.com/in/khanh-tran-46ba86329/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Khanh](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/geeky02)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
