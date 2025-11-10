@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p></p>
 
-[![Linkedin: khanh](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khanh-tran-46ba86329/)](https://www.linkedin.com/in/khanh-tran-46ba86329/)
+[![Linkedin: khanh](Color=white&link=https://www.linkedin.com/in/khanh-tran-46ba86329/)](https://www.linkedin.com/in/khanh-tran-46ba86329/)
 [![GitHub Khanh](https://img.shields.io/github/followers/geeky02?label=follow&style=social)](https://github.com/geeky02)
 
 
